@@ -6,7 +6,7 @@
 - 👨🏻‍💻 **I'm now working as a Backend Developer** in London, while continuously learning about a bunch of different things
 
 ### 💻 Stack
-- 💻 Python | Java | Node.js | JUnit | Mockito
+- 💾 Python | Java | Node.js | JUnit | Mockito
 - 🌐 JavaScript | HTML | CSS | Bootstrap | ReactJS
 - ☁ Docker | Kubernetes
 - 🛢 Postgres | MongoDB | FaunaDB
