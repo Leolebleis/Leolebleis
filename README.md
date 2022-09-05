@@ -1,16 +1,16 @@
 # Hey! I'm Léo Le Bleis.
 
 ### 🧙🏻‍♂️ About me
-- 🌍 **I grew up in France**, where I spent a lot of time reading, playing video games and watching movies
+- 🌍 **I grew up in France**, where I spent a lot of time reading, playing video games and playing the guitar
 - 🎓 **I studied economics at university** in London but quickly went into development
-- 👨🏻‍💻 **I'm now working as a Backend Developer** in London, while continuously learning about a bunch of different things
+- 👨🏻‍💻 **I'm now working as a Backend Developer** in London, with a strong interest in software architecture
 
 ### 💻 Stack
-- 💾 Python | Java | Node.js | JUnit | Mockito
+- 💾 Java | Python | Javascript | JUnit | Mockito
 - 🌐 JavaScript | HTML | CSS | Bootstrap | ReactJS
 - ☁ Docker | Kubernetes
-- 🛢 Postgres | MongoDB | FaunaDB
-- 🔧 Git | Jira | Bitbucket | Markdown 
+- 🛢 Postgres | DynamoDB | FaunaDB
+- 🔧 Git | Jira | Notion | Obsidian 
 
 
 [![Website Badge](https://img.shields.io/badge/Website-www.leolebleis.com-blue?style=flat-square&logo=google-chrome/)](https://www.leolebleis.com/)
